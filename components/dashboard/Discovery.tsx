@@ -73,6 +73,11 @@ export default function Discovery({ className = '' }) {
           </ul>
         </section>
       </div>
+      <div className="mt-16 text-sm text-muted-foreground flex justify-left">
+        <a href="#" className="hover:underline">About</a>
+        <a href="#" className="hover:underline">Terms</a>
+        <a href="#" className="hover:underline">Privacy</a>
+      </div>
     </aside>
   )
 }

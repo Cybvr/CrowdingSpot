@@ -1,0 +1,30 @@
+{
+  "name": "CrowdingSpot: A Social App for you",
+  "short_name": "CrowdingSpot",
+  "description": "Connect.Engage.Earn - An American multimedia instant messaging and social networking app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e2334",
+  "theme_color": "#1e2334",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["social", "messaging"],
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
